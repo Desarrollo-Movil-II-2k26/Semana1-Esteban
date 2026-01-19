@@ -21,3 +21,7 @@
 - Web Responsive
     - HTML + CSS + JS
 
+# Actividad en clases
+- class_01
+- class_02
+- class_03

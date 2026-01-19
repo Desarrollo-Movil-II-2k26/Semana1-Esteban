@@ -173,10 +173,7 @@ Step 06 - Test the demo application
 Step 07 - Create the firs application usin expo and blank template
 
 	- npx create-expo-app@latest class_01 --template blank
-	
 	- cd class_01
-	
-	- npx expo install expo-dev-client
 	
 	
 Step 08 - Open your favorite code editor (Visual Code):
