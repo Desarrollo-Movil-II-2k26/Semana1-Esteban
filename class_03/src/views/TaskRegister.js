@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, Text, TextInput, TouchableOpacity} from 'react-native';
+import {Image ,View, Text, TextInput, TouchableOpacity} from 'react-native';
 import {connect, useDispatch} from 'react-redux';
 import {style_01} from '../styles/style_01';
 
@@ -7,7 +7,7 @@ import {useState} from 'react';
 import {addTaskAction} from '../components/actions/TaskAction';
 
 const TaskRegister = () => {
-const [txtTask, setTxtTask] = useState('Mi primer tarea');
+const [txtTask, setTxtTask] = useState('Mi primer tarea Hola Soy Esteban');
 
 const dispatch = useDispatch();
 const onPressTask = taskDescription => {

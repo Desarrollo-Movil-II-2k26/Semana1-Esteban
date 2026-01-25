@@ -1,5 +1,5 @@
 import React from 'react';
-import { Image, View, Text, TouchableOpacity} from 'react-native';
+import { View, Text, TouchableOpacity} from 'react-native';
 import {connect, useDispatch} from 'react-redux';
 import {style_01} from '../styles/style_01';
 import { deleteTaskAction} from '../components/actions/TaskAction';
